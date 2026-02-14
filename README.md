@@ -51,9 +51,7 @@ DAX – Calculated measures and KPIs
 
 📸 Dashboard Preview
 
-(Screenshot of the Power BI dashboard)
-
-![Sales Dashboard](sales dashboard.png)
+<img width="1090" height="597" alt="sales dashboard" src="https://github.com/user-attachments/assets/009b3520-cb4f-4205-b4ff-80587b30ea06" />
 
 
 
