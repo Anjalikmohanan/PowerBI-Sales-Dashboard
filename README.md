@@ -53,7 +53,7 @@ DAX – Calculated measures and KPIs
 
 (Screenshot of the Power BI dashboard)
 
-![sales dashboard](sales dashboard.png)
+![Sales Dashboard](sales dashboard.png)
 
 
 
